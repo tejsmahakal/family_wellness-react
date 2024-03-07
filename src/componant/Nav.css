@@ -1,0 +1,66 @@
+.nav{
+    background-color:white;
+   
+}
+.heading span{
+    color:rgb(122, 15, 63);
+    font-weight:400 ;
+}
+.p{
+    color :grey;
+    margin-left: 20px;
+    
+}
+*{
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right:20px;
+    /* margin-left: 10px;
+    margin-right: 10px; */
+}
+.anchor{
+    color:red;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    list-style-type: none;
+    background-color: rgba(143, 139, 139, 0.454);
+    
+    padding:10px 10px 10px 10px;
+}
+.anchor span{
+    background-color: rgba(122, 15, 63);
+    padding:5px 5px 5px 5px;
+}
+
+.anchor xyz:hover{
+    background-color: pink;
+
+}
+.anchor xyz {
+    /* background-color: rgba(197, 185, 185, 0.53); */
+    padding:5px 5px 5px 5px;
+}
+.anchor abc {
+    /* background-color: rgba(197, 185, 185, 0.53); */
+    padding:5px 5px 5px 5px;
+}
+.anchor def {
+    /* background-color: rgba(197, 185, 185, 0.53); */
+    padding:5px 5px 5px 5px;
+}
+
+.anchor ghi {
+    /* background-color: rgba(197, 185, 185, 0.53); */
+    padding:5px 5px 5px 5px;
+    
+}
+.anchor abc:hover{
+    background-color: rgba(232, 7, 108, 0.532);
+}
+.anchor def:hover{
+    background-color: pink;
+}
+.anchor ghi:hover{
+    background-color: pink;
+}
