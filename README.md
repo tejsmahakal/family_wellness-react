@@ -1,5 +1,4 @@
-github Link :- https://github.com/tejsmahakal/family_wellness-react
-hosted Link :- https://tejsmahakal.github.io/family_wellness-react/
+
 
 # Getting Started with Create React App
 
